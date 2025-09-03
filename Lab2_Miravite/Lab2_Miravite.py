@@ -4,4 +4,5 @@ Lab 2, Mastering Git Workflow
 Sep 3, 2025
 """
 
-print("Welcome to Git commands")
+username = input("Enter a username: ")
+print("Welcome to Git commands (username)")
